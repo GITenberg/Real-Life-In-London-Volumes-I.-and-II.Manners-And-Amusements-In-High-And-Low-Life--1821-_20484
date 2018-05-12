@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Heath, William
-    birthdate: &id001 1795
+    birthdate: 1795
     deathdate: 1840
     gutenberg_agent_id: '28393'
     url: http://www.gutenberg.org/2009/agents/28393
@@ -19,7 +19,7 @@ contributor:
     gutenberg_agent_id: '28396'
     url: http://www.gutenberg.org/2009/agents/28396
   - agent_name: Dighton, Richard
-    birthdate: *id001
+    birthdate: 1795
     deathdate: 1880
     gutenberg_agent_id: '28395'
     url: http://www.gutenberg.org/2009/agents/28395
@@ -44,6 +44,8 @@ creator:
 description: The authorship of this work (originally published anonymously) is uncertain.  It
   seems unlikely that it is really by Pierce Egan, but it may not be by John Badcock
   either.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20484#Real-Life-In-London-Volumes-I.-and-II.Manners-And-Amusements-In-High-And-Low-Life--1821-
 gutenberg_issued: '2007-01-30'
 gutenberg_type: Text
 identifiers:
