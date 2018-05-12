@@ -1,0 +1,62 @@
+_repo: Real-Life-In-London-Volumes-I.-and-II.Manners-And-Amusements-In-High-And-Low-Life--1821-_20484
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Heath, William
+    birthdate: &id001 1795
+    deathdate: 1840
+    gutenberg_agent_id: '28393'
+    url: http://www.gutenberg.org/2009/agents/28393
+  - agent_name: Alken, Henry Thomas
+    birthdate: 1784
+    deathdate: 1851
+    gutenberg_agent_id: '28394'
+    url: http://www.gutenberg.org/2009/agents/28394
+  - agent_name: Rowlandson, Thomas
+    alias: Rowlandson, T. (Thomas)
+    birthdate: 1756
+    deathdate: 1827
+    gutenberg_agent_id: '28396'
+    url: http://www.gutenberg.org/2009/agents/28396
+  - agent_name: Dighton, Richard
+    birthdate: *id001
+    deathdate: 1880
+    gutenberg_agent_id: '28395'
+    url: http://www.gutenberg.org/2009/agents/28395
+covers:
+- cover_type: archival
+  image_path: 20484-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Badcock, John, active 1816-1830
+    aliases:
+    - Badock, John
+    - Bee, Jonathan
+    - Bee, Jon
+    - Hinds, John
+    gutenberg_agent_id: '28420'
+    url: http://www.gutenberg.org/2009/agents/28420
+  - agent_name: Egan, Pierce
+    birthdate: 1772
+    deathdate: 1849
+    gutenberg_agent_id: '9328'
+    url: http://www.gutenberg.org/2009/agents/9328
+description: The authorship of this work (originally published anonymously) is uncertain.  It
+  seems unlikely that it is really by Pierce Egan, but it may not be by John Badcock
+  either.
+gutenberg_issued: '2007-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Social life and customs -- 19th century'
+- !lcc 'DA'
+title: "Real Life In London, Volumes I. and II.\r\nOr, The Rambles and Adventures\
+  \ of Bob Tallyho, Esq., and His Cousin, the Hon. Tom Dashall, Through the Metropolis;\
+  \ Exhibiting a Living Picture of Fashionable Characters, Manners, and Amusements\
+  \ in High and Low Life (1821)"
+url: http://www.gutenberg.org/ebooks/20484
